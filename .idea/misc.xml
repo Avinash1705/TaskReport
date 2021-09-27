@@ -3,8 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/taskReport/app/src/main/res/drawable/gradient_login.xml" value="0.25925925925925924" />
+        <entry key="..\:/taskReport/app/src/main/res/layout/activity_all_assets_list.xml" value="0.23369565217391305" />
+        <entry key="..\:/taskReport/app/src/main/res/layout/activity_home.xml" value="0.20969202898550723" />
+        <entry key="..\:/taskReport/app/src/main/res/layout/activity_home_screen.xml" value="0.22418478260869565" />
         <entry key="..\:/taskReport/app/src/main/res/layout/activity_login.xml" value="0.2427536231884058" />
         <entry key="..\:/taskReport/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
+        <entry key="..\:/taskReport/app/src/main/res/layout/activity_splash.xml" value="0.22418478260869565" />
         <entry key="..\:/taskReport/app/src/main/res/layout/main_card.xml" value="0.2427536231884058" />
       </map>
     </option>
